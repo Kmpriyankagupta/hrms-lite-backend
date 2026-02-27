@@ -1,0 +1,1 @@
+web: gunicorn hrms_lite.wsgi:application
